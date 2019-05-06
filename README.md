@@ -1,6 +1,6 @@
 # Netlify introduction
 
-## Lauras link: https://quizzical-clarke-9b789d.netlify.com/
+
 
 ## Instructions
 
@@ -10,4 +10,5 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+* Link to the website deployed on Netlify : 
+## Lauras link: https://quizzical-clarke-9b789d.netlify.com/
