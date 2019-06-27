@@ -7,7 +7,7 @@ class App extends Component {
       <div className="App">
         <div className="title">
           <h1>I decided to take the page down </h1>
-          <div> due to the security worries</div>
+           <h2> due to the security worries</h2>
         </div>
       </div>
     );
