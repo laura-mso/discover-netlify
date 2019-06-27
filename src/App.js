@@ -6,8 +6,8 @@ class App extends Component {
     return (
       <div className="App">
         <div className="title">
-          <h1> I decided to take the page down </h1>
-          <p>due to the security worries</p>
+          <h1>I decided to take the page down </h1>
+          <div> due to the security worries</div>
         </div>
       </div>
     );
